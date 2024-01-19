@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* {
+
+  margin:0;
+
+  box-sizing: border-box;
+
+}
+
+
+body {    
+  
+  
+  
+  
+  
+  background: url(../img/joinging_congratulation.jpg) no-repeat center;
+  background-size: cover;
+  width: 550px;
+  height: 100px;
+  margin: auto; 
+  
+  
+  display: flex;
+  
+  justify-content: center;
+  
+  align-items: center;
+  
+  min-height:100vh;
+  
+}
+
+
+
+@media screen and (max-width:768px)                       {
+  body{
+background: url(../img/joinging_congratulation2.jpg) no-repeat fixed;
+background-size: cover;
+
+
+  }
+}
+  @media screen and (max-width:426px)                       {
+    body{
+  background: url(../img/joinging_congratulation3.jpg) no-repeat fixed;
+  background-size: cover;
+  
+  
+    }
+  }
+ 
+  .joinging_completed_reset{     
+          background-color: #b3d7e5 ;
+          text-align: center;
+          min-width: 100px;
+      }
+
+
+
+
+
+
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
